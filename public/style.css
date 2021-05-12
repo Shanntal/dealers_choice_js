@@ -1,0 +1,37 @@
+header {
+    display: flex;
+    justify-content: center;
+}
+
+nav {
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+}
+
+body {
+   font-family: Verdana;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+}
+
+ul {
+    border: 2px solid;
+    border-color: powderblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+body > h3 {
+   border: 2px dotted;
+   border-color: blueviolet; 
+   display: flex;
+   justify-content: center;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}

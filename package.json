@@ -1,0 +1,28 @@
+{
+  "name": "dealers_choice_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "epress": "0.0.1-security",
+    "express": "^4.17.1",
+    "i": "^0.3.6",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shanntal/dealers_choice_js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shanntal/dealers_choice_js/issues"
+  },
+  "homepage": "https://github.com/Shanntal/dealers_choice_js#readme"
+}
